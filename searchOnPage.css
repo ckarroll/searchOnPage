@@ -1,0 +1,59 @@
+#searchDiv
+{
+	position: fixed !important; 
+    right: 0 !important; 
+    top: 0 !important; 
+	width:625px !important; 
+	height:34px !important; 
+	background-color: #F0FFFF !important;
+	border: 1px solid #87CEEB !important;
+	z-index: 100000000000 !important;
+}
+
+#searchField
+{
+	width:200px !important;
+	height:24px !important; 
+	margin: 5px 20px 5px 10px !important;
+	display: inline !important;
+	border-width: 1px !important;
+	padding: 0px 3px 0px 3px;
+	
+}
+
+#searchButton
+{
+	margin: 5px 20px 5px 0px !important;
+	display: inline !important;
+	/*margin-right: 20px !important;*/
+}
+
+#spanChb
+{
+	height:24px !important;
+	/*margin-top: 5px !important;
+	margin-bottom: 5px !important;*/
+	margin: 5px 0px 5px 0px !important;
+	display: inline !important;
+}
+
+.clsSearchCurr
+{
+	background-color:lime !important;
+}
+
+.clsSearch
+{
+	background-color:yellow !important;
+}
+
+.arrowSearch
+{
+	height:20px !important;
+	margin: 0px 0px 0px 20px !important;
+	
+	vertical-align: middle !important;
+	display: inline !important;
+
+}
+
